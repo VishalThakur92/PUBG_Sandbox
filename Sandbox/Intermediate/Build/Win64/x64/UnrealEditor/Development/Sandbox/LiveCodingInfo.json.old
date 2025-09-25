@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Sandbox.gen.cpp.obj": [
+			"ACharacter_PUBG.gen.cpp.obj",
+			"AGameModeBase_PUBG.gen.cpp.obj",
+			"AGameState_PUBG.gen.cpp.obj",
+			"AHUD_PUBG.gen.cpp.obj",
+			"APlayerController_PUBG.gen.cpp.obj",
+			"APlayerState_PUBG.gen.cpp.obj",
+			"Sandbox.init.gen.cpp.obj",
+			"UZoneManager.gen.cpp.obj"
+		]
+	}
+}

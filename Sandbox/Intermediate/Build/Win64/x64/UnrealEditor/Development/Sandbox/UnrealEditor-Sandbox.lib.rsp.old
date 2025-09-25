@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Sandbox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/SandboxEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/Module.Sandbox.gen.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/ACharacter_PUBG.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/AGameModeBase_PUBG.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/AGameMode_PUBG.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/AGameState_PUBG.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/AHUD_PUBG.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/APlayerController_PUBG.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/APlayerState_PUBG.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/Sandbox.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/UZoneManager.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/PerModuleInline.gen.cpp.obj"
+"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/Default.rc2.res"
+/OUT:"C:/Users/visha/OneDrive/Documents/Unreal Projects/Sandbox/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sandbox/UnrealEditor-Sandbox.lib"
